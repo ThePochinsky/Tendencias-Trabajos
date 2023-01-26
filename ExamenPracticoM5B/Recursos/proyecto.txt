@@ -1,0 +1,12 @@
+https://drive.google.com/drive/folders/1ZF4Iju8YJpaFdthsGQOSSoHhXMiovlRE?usp=sharing
+
+INSERTS:
+INSERT INTO tabla_nombre (nombre, apellido, direccion, telefono, fecha_nacimiento, observacion, dias_trabajo, sueldo)
+VALUES ('Juan', 'Perez', 'Calle Falsa 123', '555-555-555', '1990-01-01', 'Observaciones', '5', '1000');
+
+INSERT INTO tabla_nombre (nombre, apellido, direccion, telefono, fecha_nacimiento, observacion, dias_trabajo, sueldo)
+VALUES ('Sebastian', 'Lopez', 'Calle Falsa 321', '666-555-555', '1990-01-01', 'Observaciones', '7', '2000');
+
+INSERT INTO tabla_nombre (nombre, apellido, direccion, telefono, fecha_nacimiento, observacion, dias_trabajo, sueldo)
+VALUES ('Juan', 'Perez', 'Calle Falsa 123', '555-666-555', '1990-01-01', 'Observaciones', '9', '3000');
+
